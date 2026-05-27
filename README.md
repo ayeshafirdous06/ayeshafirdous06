@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Ayesha Firdous
 
-🎓 First Year CSE Student from Hyderabad, India
+🎓 First Year CSE Student from Hyderabad.
 I'm still at the beginning of my programming journey,but I'm committed to learning something new every day.
 
 Currently following this path:
@@ -23,7 +23,7 @@ Python 🐍 → Web Development 🌐 → Projects 🚀 → First Internship 💼
 - Solving coding problems on HackerRank
 - Strengthening my Python fundamentals
 - Improving my GitHub profile
-- Building projects and learning through practice
+- learning through practice
 
 ### 🤝 Open To
 - Open-source learning opportunities
