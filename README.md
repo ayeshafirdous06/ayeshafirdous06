@@ -18,3 +18,5 @@ Currently building a strong foundation in **Python** and **Data Structures & Alg
 ## 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+
+> *"Learning consistently, one commit at a time."*
