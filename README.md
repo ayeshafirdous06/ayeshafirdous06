@@ -1,41 +1,19 @@
-## 👋 Hey, I'm Ayesha Firdous
+# 👋 Hi, I'm Ayesha
 
-🎓 First Year CSE Student from Hyderabad.
-I'm still at the beginning of my programming journey,but I'm committed to learning something new every day.
+🎓 Computer Science student from Hyderabad, India.
+Currently building a strong foundation in **Python** and **Data Structures & Algorithms**.
 
-Currently following this path:
-Python 🐍 → Web Development 🌐 → Projects 🚀 → First Internship 💼
+🚀 **Current Mission:** 30-Day DSA Sprint — solving problems daily, learning consistently, and documenting my journey on GitHub.
 
-### 🌱 I'm Currently Learning
-- Python
-- Web Development
-- Data Structures & Algorithms
-- Problem Solving
-- Git & GitHub
+## 📊 GitHub Stats
 
-### 📚 My Learning Journey
-- Completed HTML Fundamentals from Codédex
-- Currently learning Python
-- Solving coding problems on HackerRank
-- Exploring GitHub and version control
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshafirdous06&show_icons=true&theme=catppuccin_mocha&hide_border=true)
 
-### 💻 What I'm Working On
-- Solving coding problems on HackerRank
-- Strengthening my Python fundamentals
-- Improving my GitHub profile
-- learning through practice
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayeshafirdous06&theme=catppuccin_mocha&hide_border=true)](https://git.io/streak-stats)
 
-### 🤝 Open To
-- Open-source learning opportunities
-- Would love to learn from other developers
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshafirdous06&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
-### 🎯 Goals for 2026
-- Become confident in Python
-- Learn Web Development
-- Master DSA fundamentals
-- Build meaningful projects
-- Improve my problem-solving skills
-- Land my first Web + Python internship
+## 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
-### ⚡ A Small Note
-I may not know everything yet, but I'm curious, consistent, and always willing to learn.
+> *"Learning consistently, one commit at a time."*
